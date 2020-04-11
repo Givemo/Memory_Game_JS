@@ -1,0 +1,11 @@
+.grid {
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 100px;
+}
